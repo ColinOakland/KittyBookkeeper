@@ -3,4 +3,17 @@ To clone the project onto your computer:
 git clone https://github.com/ColinOakland/KittyBookkeeper.git
 
 
+To add a file to the version control tracking:
+
+git add fileName.txt
+
+
+to commit changes to the git repo
+
+git commit -m "Summary of changes"
+
+
+to make changes committed to your local repository global
+
+git push
 
