@@ -17,3 +17,8 @@ to make changes committed to your local repository global
 
 git push
 
+
+After making changes that you're satisfied with:
+git add *
+git commit -m "Commit message"
+git push	
