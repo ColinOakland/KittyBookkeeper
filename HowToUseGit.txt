@@ -1,0 +1,6 @@
+To clone the project onto your computer:
+
+git clone https://github.com/ColinOakland/KittyBookkeeper.git
+
+
+
